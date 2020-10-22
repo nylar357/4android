@@ -1,8 +1,8 @@
 #!/system/bin/sh
-# Written by Draco (tytydraco @ GitHub)
-
+# Written by Draco  (tytydraco @ GitHub)
+# Modified by Nylar for specific use on Google Pixel 3a Sargo w/ Elemental X Kernel
 # Maximum unsigned integer size in C
-UINT_MAX="1996"
+UINT_MAX="1996800"
 
 # Duration in nanoseconds of one scheduling period
 SCHED_PERIOD="$((1 * 1000 * 1000))"
