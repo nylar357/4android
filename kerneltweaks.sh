@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/system/bin/sh
 # Written by Draco (tytydraco @ GitHub)
 
 # Maximum unsigned integer size in C
