@@ -18,3 +18,5 @@ check it as run on boot.  Then move the script out of your downloads folder into
 Then copy it to /data/adb/service.d and change permissions to 0755.  Reboot and you'll notice the Log now updating to 
 tell you its running correctly and if you check magisk KTweak Module now appears correctly in your module tab.
 
+https://forum.xda-developers.com/android/software/module-ktweak-evidence-t4148447
+
