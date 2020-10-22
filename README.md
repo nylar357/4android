@@ -11,14 +11,14 @@ For Ktweaks theres some debate on this and currently the APK & Magisk Module on 
 on Android 11 (which is what I'm using) But fortunately I've found a workaround that successfully installs the 
 module and keeps the script up to date on boot.
 
-First Step : which I've done for you already is to change the script to #!/system/bin/sh then adjust the max
+First Step : which I've done for you already is to change the script to ```#!/system/bin/sh``` then adjust the max
 cpu freq.  
 
 Second Step : Is to flash the script with whatever kernel manager you prefer I use SP Kernel Auditor, and 
 check it as run on boot.  
 
 3rd Step : Move the script out of your downloads folder into your standard home directory.
-copy it to /data/adb/service.d and change permissions to 0755.  
+copy it to ```/data/adb/service.d``` and change permissions to 0755.  
 
 Finish it : Reboot and you'll notice the Log now updating to 
 tell you its running correctly and if you check magisk KTweak Module now appears correctly in your module tab.
@@ -35,14 +35,14 @@ Above KTweak Script & Some custom user settings from BlackenedMOD.
 
 Personal Settings - Ideally using Elemental X Kernel Manager well easiest anyway
 
-```Set to "0" : /sys/kernel/rcu_expedited```
+#```Set to "0" : /sys/kernel/rcu_expedited```
 
-```Set to "1" : /sys/kernel/rcu_normal```
+#```Set to "1" : /sys/kernel/rcu_normal```
 
-```Set to "0" : /sys/module/binder/parameters/debug_mask```
+#```Set to "0" : /sys/module/binder/parameters/debug_mask```
 
-```Set to "Y" : /sys/module/bluetooth/parameters/disable_ertm```
+#```Set to "Y" : /sys/module/bluetooth/parameters/disable_ertm```
 
-```Set to "Y" : /sys/module/bluetooth/parameters/disable_esco```
+#```Set to "Y" : /sys/module/bluetooth/parameters/disable_esco```
 
-```Set to "N" : /sys/module/drm_kms_helper/parameters/poll```
+#```Set to "N" : /sys/module/drm_kms_helper/parameters/poll```
