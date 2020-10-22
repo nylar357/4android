@@ -4,6 +4,22 @@ Some tweaks -  Google Pixel 3a Sargo
 ![preview](battcurve.png)
 8% Drain/hour @ Average 89% cpu usage 
 0.8% Idle Drain
+
+My Personal Governor Profile
+```sys/devices/system/cpu/cpu0/cpufreq/schedutil/hispeed_freq 1708800```
+
+/sys/devices/system/cpu/cpu0/cpufreq/schedutil/hispeed_load 77
+/sys/devices/system/cpu/cpu0/cpufreq/schedutil/pl 0
+/sys/devices/system/cpu/cpu0/cpufreq/schedutil/iowait_boost_enable 0
+/sys/devices/system/cpu/cpu0/cpufreq/schedutil/down_rate_limit_us 4000
+/sys/devices/system/cpu/cpu0/cpufreq/schedutil/up_rate_limit_us 1000
+/sys/devices/system/cpu/cpu6/cpufreq/schedutil/hispeed_freq 1996800
+/sys/devices/system/cpu/cpu6/cpufreq/schedutil/hispeed_load 77
+/sys/devices/system/cpu/cpu6/cpufreq/schedutil/pl 0
+/sys/devices/system/cpu/cpu6/cpufreq/schedutil/iowait_boost_enable 0
+/sys/devices/system/cpu/cpu6/cpufreq/schedutil/down_rate_limit_us 4000
+/sys/devices/system/cpu/cpu6/cpufreq/schedutil/up_rate_limit_us 1000
+
 ## BlackenedMOD
 https://forum.xda-developers.com/pixel-3-xl/development/mod-blackenedmod-v1-0-pixel-3-pixel-3-xl-t3887158
 For Blackenmods you'll just need to drop the script into /data/adb/service.d.
