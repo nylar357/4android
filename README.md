@@ -27,7 +27,10 @@ tell you its running correctly and if you check magisk KTweak Module now appears
 
 ![preview](Screenshot_20201022-051829.png)
 
-Personal Settings - Ideally using Elemental X Kernel Manager well easiest anyway
+Personal Settings - Ideally using Elemental X Kernel Manager well easiest anyway.  These are largly useless modules
+that can take up a large margin of battery life and overall system wide performance.  Especially the two bluetooth
+modules.  I've cherry picked and tested lots of custom user settings and combined with KTweaks these few modules
+give a huge improvement on cpu goverance and a marginal increase in battery life.
 
 ```Set to "0" : /sys/kernel/rcu_expedited```
 
