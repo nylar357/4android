@@ -20,5 +20,5 @@ tell you its running correctly and if you check magisk KTweak Module now appears
 
 https://forum.xda-developers.com/android/software/module-ktweak-evidence-t4148447
 
-[!preview](Screenshot_20201022-051829.png)
-[!preview(Screenshot_20201022-051929.png)
+![preview](Screenshot_20201022-051829.png)
+![preview](Screenshot_20201022-051929.png)
