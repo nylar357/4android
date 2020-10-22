@@ -3,9 +3,11 @@ Some tweaks -  Google Pixel 3a Sargo
 
 ![preview](battcurve.png)
 8% Drain/hour @ Average 89% cpu usage 
-0.8% Idle Drain
+0.8% Idle Drain/hour Screen Off
 
 My Personal Governor Profile
+
+
 ```sys/devices/system/cpu/cpu0/cpufreq/schedutil/hispeed_freq 1708800```
 
 ```/sys/devices/system/cpu/cpu0/cpufreq/schedutil/hispeed_load 77```
