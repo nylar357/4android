@@ -4,7 +4,7 @@ Some tweaks - Google Pixel 3a Sargo
 https://forum.xda-developers.com/pixel-3-xl/development/mod-blackenedmod-v1-0-pixel-3-pixel-3-xl-t3887158
 For Blackenmods you'll just need to drop the script into /data/adb/service.d.
 
-## KTWEAK ( My personal preference for Kernel Tweaking)
+## KTWEAK ( My personal pref. for custom kernel tweaks, other than BlackenedMod most others are placebo)
 
 https://forum.xda-developers.com/android/software/module-ktweak-evidence-t4148447
 For Ktweaks theres some debate on this and currently the APK & Magisk Module on the XDA Page don't install 
@@ -15,8 +15,12 @@ First Step : which I've done for you already is to change the script to #!/syste
 cpu freq.  
 
 Second Step : Is to flash the script with whatever kernel manager you prefer I use SP Kernel Auditor, and 
-check it as run on boot.  Then move the script out of your downloads folder into your standard home directory.
-Then copy it to /data/adb/service.d and change permissions to 0755.  Reboot and you'll notice the Log now updating to 
+check it as run on boot.  
+
+3rd Step : Move the script out of your downloads folder into your standard home directory.
+copy it to /data/adb/service.d and change permissions to 0755.  
+
+Finish it : Reboot and you'll notice the Log now updating to 
 tell you its running correctly and if you check magisk KTweak Module now appears correctly in your module tab.
 
 
