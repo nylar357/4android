@@ -32,3 +32,12 @@ System:
 Pixel 3a Sargo
 Android 11 - Elemental X Kernel
 Above KTweak Script & Some custom user settings from BlackenedMOD.
+
+Personal Settings - Ideally using Elemental X Kernel Manager well easiest anyway
+
+#Set to "0" : /sys/kernel/rcu_expedited#
+#Set to "1" : /sys/kernel/rcu_normal#
+#Set to "0" : /sys/module/binder/parameters/debug_mask#
+#Set to "Y" : /sys/module/bluetooth/parameters/disable_ertm#
+#Set to "Y" : /sys/module/bluetooth/parameters/disable_esco#
+#Set to "N" : /sys/module/drm_kms_helper/parameters/poll# 
