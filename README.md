@@ -4,7 +4,7 @@ Some tweaks - Google Pixel 3a Sargo
 https://forum.xda-developers.com/pixel-3-xl/development/mod-blackenedmod-v1-0-pixel-3-pixel-3-xl-t3887158
 For Blackenmods you'll just need to drop the script into /data/adb/service.d.
 
-## KTWEAK
+## KTWEAK ( My personal preference for Kernel Tweaking)
 
 https://forum.xda-developers.com/android/software/module-ktweak-evidence-t4148447
 For Ktweaks theres some debate on this and currently the APK & Magisk Module on the XDA Page don't install 
@@ -23,3 +23,8 @@ tell you its running correctly and if you check magisk KTweak Module now appears
 ![preview](Screenshot_20201022-051829.png)
 
 ![preview](Screenshot_20201022-051929.png)
+
+System:
+Pixel 3a Sargo
+Android 11 - Elemental X Kernel
+Above KTweak Script & Some custom user settings from BlackenedMOD.
