@@ -44,6 +44,7 @@ give a huge improvement on cpu goverance and a marginal increase in battery life
 
 ```Set to "N" : /sys/module/drm_kms_helper/parameters/poll```
 
+![preview](Screenshot_20201022-061052.png)
 
 System:
 Pixel 3a Sargo
