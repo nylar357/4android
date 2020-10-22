@@ -27,6 +27,8 @@ tell you its running correctly and if you check magisk KTweak Module now appears
 
 ![preview](Screenshot_20201022-051829.png)
 
+Personal Settings - Ideally using Elemental X Kernel Manager well easiest anyway
+
 ```Set to "0" : /sys/kernel/rcu_expedited```
 
 ```Set to "1" : /sys/kernel/rcu_normal```
@@ -45,6 +47,5 @@ Pixel 3a Sargo
 Android 11 - Elemental X Kernel
 Above KTweak Script & Some custom user settings from BlackenedMOD.
 
-Personal Settings - Ideally using Elemental X Kernel Manager well easiest anyway
 
 
