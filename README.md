@@ -1,6 +1,8 @@
 # 4android
 Some tweaks -  Google Pixel 3a Sargo
 
+![preview](battcurve.png)
+
 ## BlackenedMOD
 https://forum.xda-developers.com/pixel-3-xl/development/mod-blackenedmod-v1-0-pixel-3-pixel-3-xl-t3887158
 For Blackenmods you'll just need to drop the script into /data/adb/service.d.
@@ -44,7 +46,7 @@ give a huge improvement on cpu goverance and a marginal increase in battery life
 
 ```Set to "N" : /sys/module/drm_kms_helper/parameters/poll```
 
-![preview](battcurve.png)
+
 
 ![preview](Screenshot_20201022-061052.png)
 
