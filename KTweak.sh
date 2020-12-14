@@ -1,6 +1,5 @@
 #!/system/bin/sh
 # Written by Draco  (tytydraco @ GitHub)
-# Modified by Nylar for specific use on Google Pixel 3a Sargo w/ Elemental X Kernel
 # Maximum unsigned integer size in C
 UINT_MAX="1996800"
 
