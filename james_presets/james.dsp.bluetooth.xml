@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="dsp.bs2b.mode">5</string>
+    <string name="dsp.bass.spectralsmooth">5.0</string>
+    <boolean name="dsp.masterswitch.enable" value="true" />
+    <boolean name="dsp.stereowide.enable" value="true" />
+    <string name="dsp.stereowide.mode">30</string>
+    <string name="dsp.tone.eq">custom</string>
+    <string name="dsp.compression.maxrel">800.0</string>
+    <string name="dsp.compression.maxatk">60.0</string>
+    <string name="dsp.bass.boostcond">0.5</string>
+    <boolean name="dsp.bass.enable" value="true" />
+    <string name="dsp.compression.pregain">15</string>
+    <string name="dsp.convolver.resampler"></string>
+    <string name="dsp.compression.thres2">0</string>
+    <string name="dsp.compression.thres1">-35</string>
+    <string name="dsp.masterswitch.limthreshold">-0.1</string>
+    <boolean name="dsp.compression.enable" value="false" />
+    <boolean name="dsp.tone.enable" value="true" />
+    <string name="dsp.masterswitch.limrelease">60.0</string>
+    <string name="dsp.convolver.mode">0</string>
+    <string name="dsp.convolver.advimp">-80;-100;0;0;0;0</string>
+    <string name="dsp.headphone.preset">15</string>
+    <string name="dsp.analogmodelling.tubedrive">2.0</string>
+    <string name="dsp.convolver.files">Error: No IR file selected</string>
+    <string name="dsp.streq.stringp">GraphicEQ: 0.0 0.0; </string>
+    <string name="dsp.tone.filtertype">0</string>
+    <string name="dsp.tone.eq.custom">25.0000000;40.0000000;63.0000000;100.0000000;160.0000000;250.0000000;400.0000000;630.0000000;1000.0000000;1600.0000000;2500.0000000;4000.0000000;6300.0000000;10000.0000000;16000.0000000;3.6994820;3.6217613;3.3912878;1.4479313;1.1502590;1.4008789;1.6010361;1.6165800;0.6139898;0.5440416;0.8889313;1.6476030;3.4976501;3.5284977;3.8238344;</string>
+    <string name="dsp.bass.maxgain">4</string>
+    <string name="dsp.bass.gainsmooth">10.0</string>
+    <string name="dsp.masterswitch.postgain">0.0</string>
+    <boolean name="dsp.ddc.enable" value="true" />
+    <string name="dsp.tone.interpolation">0</string>
+    <string name="dsp.ddc.files"></string>
+    <string name="dsp.liveprog.files"></string>
+</map>

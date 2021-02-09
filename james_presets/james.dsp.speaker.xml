@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="dsp.bs2b.mode">5</string>
+    <string name="dsp.bass.spectralsmooth">5.0</string>
+    <boolean name="dsp.masterswitch.enable" value="true" />
+    <string name="dsp.stereowide.mode">30</string>
+    <string name="dsp.tone.eq">25.0;40.0;63.0;100.0;160.0;250.0;400.0;630.0;1000.0;1600.0;2500.0;4000.0;6300.0;10000.0;16000.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0</string>
+    <string name="dsp.compression.maxrel">800.0</string>
+    <string name="dsp.compression.maxatk">60.0</string>
+    <string name="dsp.bass.boostcond">0.5</string>
+    <string name="dsp.compression.pregain">15</string>
+    <string name="dsp.convolver.resampler"></string>
+    <string name="dsp.compression.thres2">0</string>
+    <string name="dsp.compression.thres1">-35</string>
+    <string name="dsp.masterswitch.limthreshold">-0.1</string>
+    <string name="dsp.masterswitch.limrelease">60.0</string>
+    <string name="dsp.convolver.mode">0</string>
+    <string name="dsp.convolver.advimp">-80;-100;0;0;0;0</string>
+    <string name="dsp.headphone.preset">15</string>
+    <string name="dsp.analogmodelling.tubedrive">2.0</string>
+    <string name="dsp.convolver.files">Error: No IR file selected</string>
+    <string name="dsp.streq.stringp">GraphicEQ: 0.0 0.0; </string>
+    <string name="dsp.tone.filtertype">0</string>
+    <string name="dsp.bass.maxgain">0</string>
+    <string name="dsp.bass.gainsmooth">10.0</string>
+    <string name="dsp.masterswitch.postgain">0.0</string>
+    <string name="dsp.tone.interpolation">0</string>
+    <string name="dsp.ddc.files"></string>
+    <string name="dsp.liveprog.files"></string>
+</map>
