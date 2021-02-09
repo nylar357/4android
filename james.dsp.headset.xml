@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="dsp.bs2b.mode">3</string>
+    <string name="dsp.bass.spectralsmooth">5.0</string>
+    <boolean name="dsp.masterswitch.enable" value="true" />
+    <boolean name="dsp.stereowide.enable" value="true" />
+    <string name="dsp.stereowide.mode">45</string>
+    <boolean name="dsp.bs2b.enable" value="true" />
+    <string name="dsp.tone.eq">custom</string>
+    <string name="dsp.compression.maxrel">800.0</string>
+    <string name="dsp.compression.maxatk">60.0</string>
+    <string name="dsp.bass.boostcond">0.5</string>
+    <boolean name="dsp.bass.enable" value="true" />
+    <string name="dsp.compression.pregain">7</string>
+    <string name="dsp.convolver.resampler">/storage/emulated/0/JamesDSP/Convolver/CorredHRTF_Surround1.wav</string>
+    <string name="dsp.compression.thres2">0</string>
+    <string name="dsp.compression.thres1">-30</string>
+    <string name="dsp.masterswitch.limthreshold">-0.1</string>
+    <boolean name="dsp.compression.enable" value="false" />
+    <boolean name="dsp.tone.enable" value="true" />
+    <string name="dsp.masterswitch.limrelease">60.0</string>
+    <string name="dsp.convolver.mode">2</string>
+    <string name="dsp.convolver.advimp">-80;-100;0;0;0;0</string>
+    <boolean name="dsp.streq.enable" value="true" />
+    <boolean name="dsp.analogmodelling.enable" value="true" />
+    <string name="dsp.headphone.preset">15</string>
+    <boolean name="dsp.headphone.enable" value="false" />
+    <string name="dsp.analogmodelling.tubedrive">8.0</string>
+    <boolean name="dsp.convolver.enable" value="false" />
+    <string name="dsp.convolver.files">/storage/emulated/0/JamesDSP/Convolver/CorredHRTF_Surround1.wav</string>
+    <boolean name="dsp.liveprog.enable" value="true" />
+    <string name="dsp.streq.stringp">GraphicEQ: 1.5 1.5;</string>
+    <string name="dsp.tone.filtertype">1</string>
+    <string name="dsp.tone.eq.custom">25.0000000;40.0000000;63.0000000;100.0000000;160.0000000;250.0000000;400.0000000;630.0000000;1000.0000000;1600.0000000;2500.0000000;4000.0000000;6300.0000000;10000.0000000;16000.0000000;-2.3782387;-0.2953358;-0.2765627;-0.6839380;-0.4663219;0.4269295;0.0553379;0.1398964;1.3656120;2.4667902;2.5229034;2.5505447;4.4044447;4.8117180;4.6943007;</string>
+    <string name="dsp.bass.maxgain">4</string>
+    <string name="dsp.bass.gainsmooth">25.0</string>
+    <string name="dsp.masterswitch.postgain">-1.0</string>
+    <boolean name="dsp.ddc.enable" value="false" />
+    <string name="dsp.tone.interpolation">1</string>
+    <string name="dsp.ddc.files">/storage/emulated/0/JamesDSP/DDC/Butterworth.vdc</string>
+    <string name="dsp.liveprog.files">/storage/emulated/0/JamesDSP/liveprog/dc_remove.eel</string>
+</map>

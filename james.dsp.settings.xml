@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="dsp.app.modeEffect" value="0" />
+    <int name="dsp.app.theme" value="0" />
+    <boolean name="dsp.app.showdevmsg" value="false" />
+    <boolean name="navigation_drawer_learned" value="true" />
+</map>
